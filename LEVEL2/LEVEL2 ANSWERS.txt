@@ -1,0 +1,2 @@
+1.	How does parallel programming/computing works? What do you think will be the advantage of utilizing parallel approach?
+    Parallel computing works by multiple the processors to solved the larger problems into smaller parts. Parallel computing/programming give you an advantage in terms of performance. By using this if we run above code we can execute it in less time rather than using only one processor with large code that requires more computing power it would possibly take program in more than hours or days. 

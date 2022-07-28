@@ -1,0 +1,5 @@
+1.	Differentiate between Multiprocessing and Multithreading. Explain.
+    Multiprocessing increase the computing speed of the system by adding more number of processor or CPUs. Multithreading increase the responsiveness of the system by allowing a process to create more multiple threads of a single process.
+
+2.	Explain the difference between Serial Computing and Parallel Computing.
+    Serial computing is a non-parallel which means performs a single task. Only one instruction acted by the processor and only one single data is being used. Parallel computing performs a multiple task at a time in other words multiple execution or cores is being used to solve larger or more complex problems rather than serial processing. Parallel computing saves more time.

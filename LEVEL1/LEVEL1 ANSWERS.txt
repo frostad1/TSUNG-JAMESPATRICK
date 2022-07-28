@@ -1,0 +1,19 @@
+1.	Differentiate between SIMD and MIMD? Explain.
+    SIMD is single instruction multiple data and MIMD is multiple instruction multiple data which means that the computer has single or multiple data streams of instruction and data.
+
+
+2.	What are the performance metrics of parallel systems? Explain each.
+    Speedup is a measure that solving a problem in parallel. 
+    Execution time is the serial runtime of a program is the time elapsed between the beginning and end of its execution.
+	  Total parallel overhead is the amount of time required, opposed to do useful work.
+
+3.	How does the performance of metrics of parallel systems affect each other? Explain.
+    Parallel system deals with multiple computer resources in a single computer with a multiple processor. Each one of them measures and different performance that is being used to solve a problem from speedup on how it do to measure and execution time shows the elapsed time from its execution program.
+
+4.	Explain what pipelining is.
+    It is a method of sending multiple data units without waiting to execute all of instructions. Pipelining process allows storing and executing instructions in an orderly process.
+
+
+5.	Illustrate and explain what a Von Neuman Architecture is.
+    Von Neuman Architecture is a design model for modern computers which has a Central Processing Unit (CPU) and the concept of Memory which is used for storing both data and instructions. This architecture implemented the stored program concept in which the data and instructions are stored in the same memory.
+
